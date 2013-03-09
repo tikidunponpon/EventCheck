@@ -1,0 +1,10 @@
+#--------
+# OSX
+.DS_Store
+#--------
+# Xcode Workspace
+*.xcworkspace/*
+!*.xcworkspace/contents.xcworkspacedata
+#--------
+# Xcode Project
+!**/*.xcodeproj/default.*
